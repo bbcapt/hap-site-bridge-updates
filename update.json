@@ -1,14 +1,14 @@
 {
   "name": "Hap Site Bridge",
   "slug": "hap-site-bridge",
-  "version": "1.4.1",
-  "download_url": "https://raw.githubusercontent.com/bbcapt/hap-site-bridge-updates/main/hap-site-bridge-1.4.1.zip",
+  "version": "1.4.2",
+  "download_url": "https://cdn.jsdelivr.net/gh/bbcapt/hap-site-bridge-updates@main/hap-site-bridge-1.4.2.zip",
   "homepage": "https://crm.hap-studio.it/",
   "requires": "5.9",
   "tested": "6.7",
   "last_updated": "2026-10-05",
   "sections": {
     "description": "Thin CRM bridge for Hap-managed WordPress sites.",
-    "changelog": "1.4.1 — Settings UI for API key. Public update channel (CRM mirrored)."
+    "changelog": "1.4.2 — Update channel via public mirror (jsDelivr) so auto-updates work when CRM is behind SiteGround Captcha. Settings UI for API key (from 1.4.1)."
   }
 }
