@@ -1,14 +1,14 @@
 {
   "name": "Hap Site Bridge",
   "slug": "hap-site-bridge",
-  "version": "1.4.4",
-  "download_url": "https://cdn.jsdelivr.net/gh/bbcapt/hap-site-bridge-updates@main/hap-site-bridge-1.4.4.zip",
+  "version": "1.4.5",
+  "download_url": "https://cdn.jsdelivr.net/gh/bbcapt/hap-site-bridge-updates@main/hap-site-bridge-1.4.5.zip",
   "homepage": "https://crm.hap-studio.it/",
   "requires": "5.9",
   "tested": "6.7",
   "last_updated": "2026-10-05",
   "sections": {
-    "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release \u2014 remove on client handoff.",
-    "changelog": "1.4.4 \u2014 Unpair analysis even with wp-config key; Unpair v2 connection."
+    "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release — remove on client handoff.",
+    "changelog": "Release 1.4.5"
   }
 }
