@@ -8,7 +8,7 @@
   "tested": "6.7",
   "last_updated": "2026-10-05",
   "sections": {
-    "description": "Thin CRM bridge for Hap-managed WordPress sites.",
-    "changelog": "1.4.2 — Update channel via public mirror (jsDelivr) so auto-updates work when CRM is behind SiteGround Captcha. Settings UI for API key (from 1.4.1)."
+    "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release — remove on client handoff.",
+    "changelog": "Release 1.4.2"
   }
 }
