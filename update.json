@@ -1,14 +1,14 @@
 {
   "name": "Hap Site Bridge",
   "slug": "hap-site-bridge",
-  "version": "1.4.5",
-  "download_url": "https://cdn.jsdelivr.net/gh/bbcapt/hap-site-bridge-updates@main/hap-site-bridge-1.4.5.zip",
+  "version": "1.4.6",
+  "download_url": "https://crm.hap-studio.it/hap-bridge-updates/hap-site-bridge-1.4.6.zip",
   "homepage": "https://crm.hap-studio.it/",
   "requires": "5.9",
   "tested": "6.7",
   "last_updated": "2026-10-05",
   "sections": {
     "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release \u2014 remove on client handoff.",
-    "changelog": "1.4.5 \u2014 Metadata channel = GitHub raw (jsDelivr @main was sticky on 1.4.3). Unpair controls included."
+    "changelog": "1.4.6 \u2014 Multi-mirror update check (CRM+GitHub+jsDelivr); force check; fixes sticky CDN false \"up to date\"."
   }
 }
