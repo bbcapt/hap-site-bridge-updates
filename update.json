@@ -8,7 +8,7 @@
   "tested": "6.7",
   "last_updated": "2026-10-05",
   "sections": {
-    "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release — remove on client handoff.",
-    "changelog": "Release 1.4.5"
+    "description": "Thin CRM bridge for Hap-managed WordPress sites. Private Hap release \u2014 remove on client handoff.",
+    "changelog": "1.4.5 \u2014 Metadata channel = GitHub raw (jsDelivr @main was sticky on 1.4.3). Unpair controls included."
   }
 }
